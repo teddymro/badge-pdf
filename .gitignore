@@ -1,0 +1,26 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+
+# Runtime data
+*.pid
+*.pid.lock
+
+# Environment configuration file
+.env
+
+# Dependency locks
+package-lock.json
+yarn.lock
+
+# Output PDF files
+*.pdf
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime*
+
+# OS generated files
+.DS_Store
+Thumbs.db
